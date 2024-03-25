@@ -15,7 +15,7 @@ The Library Management System is a desktop application developed using Python Tk
 - MySQL
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/library-management-system.git`
+1. Clone the repository: `git clone https://github.com/MeriemFattah/library_management_system.git`
 5. Run the application.
 
 ## Usage
@@ -24,7 +24,5 @@ The Library Management System is a desktop application developed using Python Tk
 3. Employees can view and manage rented books.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- Meriem Fattah(https://github.com/MeriemFattah)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
